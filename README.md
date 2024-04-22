@@ -24,16 +24,13 @@ python3 main.py
 OR
 python main.py
 ```
-
-![image](https://github.com/DEVMYTH123/Web_Pen_Tool_FSE/blob/main/SS.jpg)
-
-OR
-
 To use it as a command see the options with
 ```
 python3 main.py -h
 ```
-or
+
+![image](https://github.com/DEVMYTH123/Web_Pen_Tool_FSE/blob/main/SS.jpg)
+
 ```
 python main.py -h
 ```
