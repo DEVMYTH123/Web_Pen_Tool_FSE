@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 This will install the required python modules
 
-To start the command line utility run main.py using either
+To start the command line utility in menu mode run main.py using either
 ```
 python3 main.py
 ```
@@ -27,7 +27,24 @@ or
 python main.py
 ```
 
-![image](https://github.com/DEVMYTH123/Web_Pen_Tool_FSE/blob/main/SS.jpg)
+![image](https://github.com/EliteGamerSiddhu/testing/assets/65298483/216ea3ab-3bb8-4c4e-b35b-741c29ed9fe8)
+
+OR
+
+To use it as a command see the options with
+```
+python3 main.py -h
+```
+or
+```
+python main.py -h
+```
+
+The word lists used in the utility can be found in certain Linux OS using the ```locate``` command
+Examples:-
+* ```locate common```
+* ```locate password```
+* ```locate subdomains```
 
 # How to use
 
