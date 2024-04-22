@@ -21,8 +21,6 @@ This will install the required python modules
 To start the command line utility in menu mode run main.py using either
 ```
 python3 main.py
-OR
-python main.py
 ```
 To use it as a command see the options with
 ```
