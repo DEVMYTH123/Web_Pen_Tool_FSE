@@ -1,6 +1,6 @@
 # Web_Pen_Tool_FSE
 
-A simple command line web pentesting tool using FSE methods.
+A simple command line web pentesting tool.
 
 ## Supports: -
 * Brute Forcing Login
@@ -10,10 +10,10 @@ A simple command line web pentesting tool using FSE methods.
 
 # How to setup
 
-Requires Python to run. 
-
+Requires Python to run.
 Simply, clone the git repository and once in the directory run
 ```
+git clone git@github.com:DEVMYTH123/Web_Pen_Tool_FSE.git
 pip install -r requirements.txt
 ```
 This will install the required python modules
@@ -21,9 +21,7 @@ This will install the required python modules
 To start the command line utility in menu mode run main.py using either
 ```
 python3 main.py
-```
-or
-```
+OR
 python main.py
 ```
 
