@@ -27,7 +27,7 @@ or
 python main.py
 ```
 
-![image][(https://github.com/DEVMYTH123/Web_Pen_Tool_FSE/blob/main/SS.jpg)]
+![image](https://github.com/DEVMYTH123/Web_Pen_Tool_FSE/blob/main/SS.jpg)
 
 # How to use
 
