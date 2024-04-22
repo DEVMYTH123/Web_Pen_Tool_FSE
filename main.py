@@ -3,6 +3,7 @@ from xss import xss
 from director import directory
 from domain import domain
 from brutesite import bruteforce
+from termcolor import colored
 
 def menu() :
     while(1):
