@@ -43,6 +43,7 @@ Examples:-
 
 ## Brute Forcing login
 Give the login page URL and the username. The program will attempt to brute force the password using a dictionary attack.
+
 The passwords list is stored in ```passwordlist.txt```. This file can be updated to increase the number of passwords to try.
 
 ## Finding Hidden Sub-Directories
