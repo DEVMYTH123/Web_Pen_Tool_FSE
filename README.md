@@ -13,7 +13,7 @@ A simple command line web pentesting tool.
 Requires Python to run.
 Simply, clone the git repository and once in the directory run
 ```
-git clone git@github.com:DEVMYTH123/Web_Pen_Tool_FSE.git
+git clone https://github.com/DEVMYTH123/Web_Pen_Tool_FSE.git
 pip install -r requirements.txt
 ```
 This will install the required python modules
